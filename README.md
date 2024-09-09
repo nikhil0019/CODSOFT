@@ -1,4 +1,4 @@
-**CodSoft Internship Projects**
+<h1>CodSoft Internship Projects</h1>
 
 This repository contains the projects I completed during my internship with **CodSoft**. Each project focuses on implementing machine learning models to solve real-world problems, ranging from predicting music genres to detecting spam messages and predicting customer churn.
 
